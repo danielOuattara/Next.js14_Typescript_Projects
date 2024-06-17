@@ -1,0 +1,4 @@
+node_modules
+backup/
+official-next.js-redux-toolkit/
+test-error-server-class/
